@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Somalia States</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-[#E0DADA] h-screen flex justify-center items-center mt-16">
+    <div class="bg-[#39393F] flex flex-col justify-center items-center p-5 rounded-[10px] text-white w-[400px]">
+        <div class="app w-full">
+            <div class="search text-black">
+
+                <input type="text" name="" id="searchState" placeholder="Enter State" class="w-full focus:outline-0 px-2">
+            </div>
+            <div id="lists" class="lists bg-white my-1 display flex flex-col w-[360px] text-black p-1 hidden absolute cursor-pointer">
+                
+
+            </div>
+
+            <div class="maamulka flex flex-row my-3 w-full justify-center ">
+                <h3 class="mr-12 text-[16px] font-bold">maamulka:</h3>
+                <h3 id="nameState">...</h3>
+            </div>
+
+            <div class="calanka flex flex-col justify-center items-center my-7">
+                <h3 class="text-[16px] font-bold">calanka</h3>
+                <img id="flagState" class="w-[100px] h-[80px] mt-2" src="" alt="">
+            </div>
+
+            <div class="maapka flex flex-col justify-center items-center my-7">
+                <h3 class="text-[16px] font-bold">maapka</h3>
+                <img id="mapState" class="w-[100px] h-[110px] mt-2" src="" alt="">
+            </div>
+
+            <div class="info flex flex-row mt-8 justify-between items-center w-full">
+                <div class="infoFooter flex flex-col justify-center items-center mr-8">
+                    <h3 class="text-[16px] font-bold">Badka</h3>
+                    <h3 id="Badka">...</h3>
+                </div>
+                <div class="infoFooter flex flex-col justify-center items-center mr-8">
+                    <h3 class="text-[16px] font-bold">taarikhda</h3>
+                    <h3 id="tarikhda">...</h3>
+                </div>
+                <div class="infoFooter flex flex-col justify-center items-center">
+                    <h3 class="text-[16px] font-bold">Casumada</h3>
+                    <h3 id="Casumada">...</h3>
+                </div>
+            </div>
+
+
+            
+        </div>
+    </div>
+    <script src="main.js"></script>
+</body>
+</html>

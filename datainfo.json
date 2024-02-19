@@ -1,0 +1,54 @@
+
+[
+    {
+      "magaca" : "Puntland",
+      "calanka" : "./images/flags/puntlandFlag.png",
+      "mapka" : "./images/maps/pubtland.jpg",
+      "Badka" : "212,510 km^2",
+      "tarikhda" : "01/08/1998",
+      "Casumada" : "Garowe"
+    },
+    {
+      "magaca" : "Galmudug",
+      "calanka" : "./images/flags/galmudugFlag.png",
+      "mapka" : "./images/maps/galmudug.jpg",
+      "Badka" : "100,370 km^2",
+      "tarikhda" : "14/08/2006",
+      "Casumada" : "Dhuuso mareeb"
+    },
+
+    {
+      "magaca" : "Hirshabbele",
+      "calanka" : "./images/flags/hirshabelleFlag.png",
+      "mapka" : "./images/maps/hirshabele.jpg",
+      "Badka" : "?",
+      "tarikhda" : "05/10/2016",
+      "Casumada" : "Jowhar"
+    },
+
+    {
+      "magaca" : "Koonfur Galbeed",
+      "calanka" : "./images/flags/koonfurgalbeed.png",
+      "mapka" : "./images/maps/koonfurgalbeed.jpg",
+      "Badka" : "98,863 km^2",
+      "tarikhda" : "11/2009",
+      "Casumada" : "Barawe"
+    },
+    {
+      "magaca" : "Jubbaland",
+      "calanka" : "./images/flags/JubalanadFlag.png",
+      "mapka" : "./images/maps/jubbaland.jpg",
+      "Badka" : "110,293 km^2",
+      "tarikhda" : "29/08/2013",
+      "Casumada" : "Kismanyo"
+    },
+    {
+      "magaca" : "SSC Khatumo",
+      "calanka" : "./images/flags/KhatumoFlag.png",
+      "mapka" : "./images/maps/khatumo.jpg",
+      "Badka" : "103,897 km^2",
+      "tarikhda" : "06/02/2023",
+      "Casumada" : "Laascanod"
+    }
+
+  ]
